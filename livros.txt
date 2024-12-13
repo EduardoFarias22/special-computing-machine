@@ -1,0 +1,30 @@
+1. "You Don't Know JS" (série) – Kyle Simpson
+Descrição: Uma série profunda que explora os detalhes do JavaScript, abordando desde o básico até conceitos avançados de escopo, closures, this, entre outros.
+Por que ler: Essencial para entender a fundo como o JavaScript funciona por trás das cenas.
+2. "Eloquent JavaScript" – Marijn Haverbeke
+Descrição: Um dos livros mais populares para aprender JavaScript, com explicações claras e exercícios práticos.
+Por que ler: Aborda conceitos fundamentais de JavaScript, desde o básico até tópicos mais avançados, como programação funcional.
+3. "JavaScript: The Good Parts" – Douglas Crockford
+Descrição: Foca nos melhores recursos do JavaScript e ignora as partes problemáticas ou confusas da linguagem.
+Por que ler: Essencial para programadores que querem uma compreensão sólida dos melhores aspectos do JavaScript.
+4. "Learning React" – Alex Banks, Eve Porcello
+Descrição: Guia introdutório ao React, cobrindo desde conceitos básicos até técnicas avançadas de desenvolvimento de aplicativos com React.
+Por que ler: Essencial para quem deseja dominar o React, uma das bibliotecas mais populares para front-end.
+5. "Node.js Design Patterns" – Mario Casciaro
+Descrição: Este livro ensina padrões de design eficientes no contexto do Node.js, ajudando a criar aplicativos escaláveis e bem estruturados.
+Por que ler: Crucial para programadores back-end que desejam escrever código limpo e eficiente em Node.js.
+6. "The Pragmatic Programmer" – Andrew Hunt, David Thomas
+Descrição: Embora não seja focado exclusivamente em JavaScript, oferece práticas essenciais para qualquer programador, abordando boas práticas, design e estratégias de resolução de problemas.
+Por que ler: Um clássico que desenvolve a mentalidade de programador, focando em produtividade e qualidade de código.
+7. "Pro MERN Stack" – Vasan Subramanian
+Descrição: Ensina a desenvolver uma aplicação fullstack com MongoDB, Express, React e Node.js (MERN Stack).
+Por que ler: Perfeito para quem deseja construir soluções fullstack com uma das pilhas mais populares no desenvolvimento JavaScript.
+8. "Designing Data-Intensive Applications" – Martin Kleppmann
+Descrição: Embora não seja exclusivo para JavaScript, ensina como lidar com sistemas de dados complexos, uma habilidade crucial para desenvolvedores fullstack.
+Por que ler: Essencial para quem trabalha com bancos de dados e sistemas escaláveis, abordando tanto o back-end quanto o front-end.
+9. "The Road to learn React" – Robin Wieruch
+Descrição: Um livro prático que ensina React de forma progressiva, desde os fundamentos até conceitos avançados, com exemplos reais de código.
+Por que ler: Ideal para quem quer aprender React de forma prática, com exemplos reais e uma abordagem hands-on.
+10. "Modern Fullstack Development" – Frank Zammetti
+Descrição: Foca em práticas de desenvolvimento modernas para a criação de aplicações web fullstack, utilizando tecnologias como JavaScript, Node.js, e React.
+Por que ler: Aborda a criação de sistemas completos usando a stack moderna, ajudando a entender todo o ciclo de desenvolvimento de ponta a ponta.
